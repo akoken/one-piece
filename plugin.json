@@ -1,0 +1,12 @@
+{
+  "name": "one-piece",
+  "description": "A minimal multi-agent system with an orchestrator, a planner, a coder, a code reviewer, a security reviewer, and a designer working together providing orchestration between Claude, Codex and Gemini.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Abdurrahman Alp Koken",
+  },
+  "license": "MIT",
+  "keywords": ["orchestrator", "code-review", "security-review", "designer"],
+  "agents": "agents/",  
+  "skills": "skills/"
+}
